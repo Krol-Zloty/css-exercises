@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.class1, .coolerclass {
+    background-color: rgb(231, 165, 165);
+}
+
+.class1 {
+    font-size: 20px;
+}
+.coolerclass {
+    font-size: 30px;
+}
+
+#oneID {
+    font-size: 40px;
+    color: blue;
+}
+
+#anotherID {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 28px;
+
+
+}
